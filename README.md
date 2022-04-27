@@ -1,6 +1,8 @@
-An [Akismet](http://www.akismet.com/) API client for [node.js](http://nodejs.org/).
+# akismet-js
 
-### Installation:
+> Simple [Akismet](http://www.akismet.com/) API client
+
+## Setup:
 
 ```
 yarn add akismet-js
@@ -8,7 +10,7 @@ yarn add akismet-js
 npm i akismet-js
 ```
 
-### Usage:
+## Usage:
 
 You need to [sign up](https://akismet.com/signup/) for an Akismet API key to use the API. Once you sign up,
 it would be a good idea to verify your key.
