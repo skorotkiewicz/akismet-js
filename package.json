@@ -1,22 +1,27 @@
 {
-  "name": "akismet",
+  "name": "akismet-js",
   "version": "2.1.0",
   "keywords": [
     "akismet",
     "comment",
     "spam"
   ],
-  "homepage": "https://github.com/oozcitak/akismet-js",
-  "description": "Akismet API client for node.js",
+  "homepage": "https://github.com/skorotkiewicz/akismet-js",
+  "description": "Akismet API client for Node.js",
   "author": "Ozgur Ozcitak <oozcitak@gmail.com>",
-  "contributors": [],
+  "contributors": [
+    {
+      "name": "Sebastian Korotkiewicz",
+      "url": "https://github.com/skorotkiewicz"
+    }
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/oozcitak/akismet-js.git"
+    "url": "git://github.com/skorotkiewicz/akismet-js.git"
   },
   "bugs": {
-    "url": "https://github.com/oozcitak/akismet-js/issues"
+    "url": "https://github.com/skorotkiewicz/akismet-js/issues"
   },
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
